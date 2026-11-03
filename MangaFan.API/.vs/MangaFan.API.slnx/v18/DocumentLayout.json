@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|c:\\users\\joy\\desktop\\mangafan\\mangafan.api\\mangafan.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|solutionrelative:mangafan.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|c:\\users\\joy\\desktop\\mangafan\\mangafan.api\\mangafan.api\\controllers\\mangascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|solutionrelative:mangafan.api\\controllers\\mangascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|c:\\users\\joy\\desktop\\mangafan\\mangafan.api\\mangafan.api\\models\\manga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCAF7524-8FB7-4773-B068-844B8C1763B3}|MangaFan.API\\MangaFan.API.csproj|solutionrelative:mangafan.api\\models\\manga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Program.cs",
+              "RelativeDocumentMoniker": "MangaFan.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Program.cs",
+              "RelativeToolTip": "MangaFan.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:47:50.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MangasController.cs",
+              "DocumentMoniker": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Controllers\\MangasController.cs",
+              "RelativeDocumentMoniker": "MangaFan.API\\Controllers\\MangasController.cs",
+              "ToolTip": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Controllers\\MangasController.cs",
+              "RelativeToolTip": "MangaFan.API\\Controllers\\MangasController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:37:20.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manga.cs",
+              "DocumentMoniker": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Models\\Manga.cs",
+              "RelativeDocumentMoniker": "MangaFan.API\\Models\\Manga.cs",
+              "ToolTip": "C:\\Users\\Joy\\Desktop\\MangaFan\\MangaFan.API\\MangaFan.API\\Models\\Manga.cs",
+              "RelativeToolTip": "MangaFan.API\\Models\\Manga.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T08:33:09.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
